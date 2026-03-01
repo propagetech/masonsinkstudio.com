@@ -9,7 +9,7 @@ window.botpressWebChat.init({
     "lazySocket": true,
     "themeName": "prism",
     "botName": "Chat with Us",
-    "avatarUrl": "imgs/6a350c60bc614268bf0c0ed460faff6c.png",
+    "avatarUrl": "imgs/6a350c60bc614268bf0c0ed460faff6c.webp",
     "stylesheet": "https://webchat-styler-css.botpress.app/prod/code/b755a24c-55d0-4741-8696-8de65d4ca05c/v23348/style.css",
     "frontendVersion": "v1",
     "useSessionStorage": true,

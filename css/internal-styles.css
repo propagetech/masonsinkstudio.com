@@ -184,7 +184,7 @@ color:#fff;
         width: 50px;
         height: 50px;
         bottom: 10px;
-        background-image: url('imgs/1469794035171downarrow.png');
+        background-image: url('imgs/1469794035171downarrow.webp');
         background-size: contain;
         z-index: 3;
         background-repeat: no-repeat;
@@ -352,7 +352,7 @@ i.fa.fa-bars {
 .work-back-menu a {
     width: 42px;
     height: 42px;
-      background-image: url('imgs/9aedeba22719eca89e3fd6cd45b0347a.png');
+      background-image: url('imgs/9aedeba22719eca89e3fd6cd45b0347a.webp');
     background-size: contain;
     z-index: 3;
     background-repeat: no-repeat;
@@ -462,7 +462,7 @@ a.carousel-control.right {
     position: absolute;
     width: 42px;
     height: 42px;
-    background-image: url('imgs/fad5fa3d73291474c57b1152cceac8be.png');
+    background-image: url('imgs/fad5fa3d73291474c57b1152cceac8be.webp');
     background-size: contain;
     z-index: 3;
     background-repeat: no-repeat;
@@ -471,7 +471,7 @@ a.carousel-control.left {
     position: absolute;
     width: 42px;
     height: 42px;
-    background-image: url('imgs/ec3c7afde413d7f01f9badab3252206d.png');
+    background-image: url('imgs/ec3c7afde413d7f01f9badab3252206d.webp');
     background-size: contain;
     z-index: 3;
     background-repeat: no-repeat;
@@ -530,7 +530,7 @@ a.carousel-control.left {
     .work-back-menu a {
         width: 42px;
         height: 42px;
-        background-image: url('imgs/9aedeba22719eca89e3fd6cd45b0347a.png');
+        background-image: url('imgs/9aedeba22719eca89e3fd6cd45b0347a.webp');
         background-size: contain;
         z-index: 3;
         background-repeat: no-repeat;
