@@ -285,7 +285,7 @@ Files and context:
     }
   },
   {
-    "path": "heritage-exhibition-.html",
+    "path": "heritage-exhibition.html",
     "context": {
       "title": "HOH Exhibition | Heritage Exhibition | History of Bangalore | Hands On Heritage | M. G. Road | Bangalore | Masons Ink",
       "first_heading": "Heritage Exhibition"
@@ -393,6 +393,18 @@ Files and context:
     }
   },
   {
+    "path": "imgs/02b9d8acb535fa9018954182ed2b66ec.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/02eaf9b4d82a2e1513cc629f84ef557d.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/0302377d27b661a1cf1ee1f20f51ad77.webp",
     "context": {
       "refs": [
@@ -412,6 +424,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/04cd26a7e71848a5ebf8e88a2669b63b.webp",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -482,6 +500,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/06373edab88582ec6e1a12f3bfbba7fa.pdf",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -678,6 +702,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/07c4ffbb844e19834cdc805142c2d66e.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/07e4185a15e59fdeb4b92b682c97db93.webp",
     "context": {
       "refs": [
@@ -865,6 +895,24 @@ Files and context:
     }
   },
   {
+    "path": "imgs/0ed937416a19bdc4beb5bd9f17c2b53f.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/0f3d91cac938e1a06887db8b486ca925.pdf",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/100a50bcbec8d8014210f5d77c8b3ce0.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/1014e2205005a5bb3b216c4b586405ad.webp",
     "context": {
       "refs": [
@@ -909,6 +957,18 @@ Files and context:
     }
   },
   {
+    "path": "imgs/118b1e6faae8d6b21ee440a5dfbc90e9.pdf",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/130247c7c996f3df396ff904b1885587.pdf",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/130c83b8e836d4a90e980523744a4e99.webp",
     "context": {
       "refs": [
@@ -917,6 +977,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/1469794035171downarrow.webp",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -1008,6 +1074,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/17d8ba0a70fd3625c992bfcb3a8c750a.png",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/1862f8387e043198bd1b53fa8b707e36.webp",
     "context": {
       "refs": [
@@ -1096,6 +1168,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/1b00cf8ba5394f8d8116c949ecd47851.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/1b3f581426fe0c352b8b0ffac648a10c.webp",
     "context": {
       "refs": [
@@ -1126,6 +1204,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/1c3079aadde9ccfcd0338229609378b1.webp",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -1195,6 +1279,18 @@ Files and context:
     }
   },
   {
+    "path": "imgs/1f7274a4d2f6aecbc5fbe61beadd8823.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/1f9606b543f30f732f4a437d8faac60a.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/203d8dc99d82136d4f5782e8467a3103.webp",
     "context": {
       "refs": [
@@ -1203,6 +1299,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/206a96ace0ef6290874791dcf7e171d7.svg",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -1225,6 +1327,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/21841d2b078099856ef9255ff37f11fc.pdf",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -1272,6 +1380,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/229f7c117bc9c7b7272477577ab99b15.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/22c47797386d05af1c07e44a20de3694.webp",
     "context": {
       "refs": [
@@ -1307,7 +1421,12 @@ Files and context:
   {
     "path": "imgs/23497e637fff3dced4fb343fdc957880.jpeg",
     "context": {
-      "refs": []
+      "refs": [
+        {
+          "alt": "",
+          "title": ""
+        }
+      ]
     }
   },
   {
@@ -1614,6 +1733,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/289aa9a08537913db39f24ee3caadd1e.pdf",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/2a507d9aff4edce1b9e09e12118451a9.webp",
     "context": {
       "refs": [
@@ -1633,6 +1758,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/2bd12951ff52171dbd4fff41f7f2f1fd.pdf",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -1735,6 +1866,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/2ef30786c482b02869eccdb0259b77b5.svg",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/2f54dfd81f7598d85858691094aaf709.webp",
     "context": {
       "refs": [
@@ -1792,7 +1929,12 @@ Files and context:
   {
     "path": "imgs/2ff1bda35fb3f6e77a8aa1a28a4419fb.png",
     "context": {
-      "refs": []
+      "refs": [
+        {
+          "alt": "",
+          "title": ""
+        }
+      ]
     }
   },
   {
@@ -1873,6 +2015,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/32e53b65894707c70aa50ca1e4d36a59.pdf",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/332f622c66b798682fc4f20032849b10.webp",
     "context": {
       "refs": [
@@ -1925,6 +2073,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/34a2194956a4df81db7a9cb87c076503.webp",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -2002,6 +2156,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/371cd9c4752fd50d6a72cd0cba994035.svg",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -2148,6 +2308,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/3cbb368f66f79a35399821060761ef11.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/3d432d1e5167ce66081f268c2df48ee0.webp",
     "context": {
       "refs": [
@@ -2167,6 +2333,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/3e39582987706d41db721482687f8a62.svg",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -2229,6 +2401,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/4028d7181c7fa19b420680641eb62cad.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/4037c28e7f4206266107cf3a8692e220.webp",
     "context": {
       "refs": [
@@ -2263,6 +2441,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/40d323aca610348b17c41188ba7010dd.webp",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -2437,7 +2621,12 @@ Files and context:
   {
     "path": "imgs/45b6d45436404b2aba009f900f0e5d92.jpeg",
     "context": {
-      "refs": []
+      "refs": [
+        {
+          "alt": "",
+          "title": ""
+        }
+      ]
     }
   },
   {
@@ -2563,6 +2752,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/484f1d97a3fe51b30f41e5a4838bc7ff.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/484fe981af8c0bc476e083949f3f02aa.webp",
     "context": {
       "refs": [
@@ -2586,6 +2781,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/488d7a386b30f11d9d3f8a09a55b75d2.pdf",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -2622,6 +2823,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/491ea472e4ba01af15f152e62e4dc373.pdf",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/49c802bfc0d1d970f6f3dd46ee072463.webp",
     "context": {
       "refs": [
@@ -2652,6 +2859,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/4a6bbf00d39afb73526af468c008e18e.pdf",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -2924,6 +3137,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/4df91206e8655b8a346a196c973c736f.webp",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -3207,6 +3426,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/56e80e92b51f4cfac0ee2b2752fef013.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/570def3f3140385f36ab71302782ec21.webp",
     "context": {
       "refs": [
@@ -3215,6 +3440,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/5771450cd1f40153309c976d6113a17b.pdf",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -3661,6 +3892,24 @@ Files and context:
     }
   },
   {
+    "path": "imgs/5dfa3bb1647c5b8222ed65ad16f7a6ca.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/5f023d9d1ee9d6dd77b02071b5dd1ee3.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/5f1905e4df13b7fd9ac14fab82e4d7b9.pdf",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/5f3eaf109777a1211477b67f99923b1d.webp",
     "context": {
       "refs": [
@@ -3702,6 +3951,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/6043f06a9a300ddd3dea43df80e4ccf1.webp",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -3760,6 +4015,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/628038c105a070292b1c1c48f8780016.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/62974627f57d7823deff537b837d8ab9.webp",
     "context": {
       "refs": [
@@ -3794,6 +4055,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/64170bbba1a88d42c1f30a299c16b2bc.pdf",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -4203,6 +4470,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/6af2d0e0b74053b3481a76213f1c7833.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/6b0df135040915146bfad9898b03a2da.webp",
     "context": {
       "refs": [
@@ -4244,6 +4517,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/6c5dffdbc57c7b4fcbce443b38681842.pdf",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -4368,6 +4647,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/71793f53232fe2dca3bcd7683df38225.pdf",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/721babc928dc62431aab85924daf42f3.webp",
     "context": {
       "refs": [
@@ -4468,6 +4753,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/73520cb1d7d793f91bedb68eacf1b555.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/7379b79572f02b6afe92ae836bd23aba.webp",
     "context": {
       "refs": [
@@ -4545,6 +4836,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/7622bfec1d68be261eb73bfa412e0447.pdf",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/766b6aea9ea9b04e522172ab85226728.webp",
     "context": {
       "refs": [
@@ -4579,6 +4876,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/778ce088b476a3490d58caa02448e0e9.svg",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -4711,6 +5014,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/7c68ffb39d7ef49cfa8de57e6c48dfee.pdf",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -4990,6 +5299,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/86687cf2df14bdc376664a4f1ec41372.pdf",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -5274,6 +5589,10 @@ Files and context:
         {
           "alt": "",
           "title": ""
+        },
+        {
+          "alt": "",
+          "title": ""
         }
       ]
     }
@@ -5411,6 +5730,18 @@ Files and context:
     }
   },
   {
+    "path": "imgs/98b00bdb9a9cba93ae0942a766619ef5.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/98d048157833e846710898487cf450dc.svg",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/98e300e1dc6bdc4b42c49e57d5f39c9e.webp",
     "context": {
       "refs": [
@@ -5485,6 +5816,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/9aedeba22719eca89e3fd6cd45b0347a.webp",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -5602,6 +5939,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/a0477fea60aeb078de18f05e9840ae15.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/a0c95dcbf16f64c5ded3e43b3c984755.webp",
     "context": {
       "refs": [
@@ -5654,6 +5997,18 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/a490f104164a21f043b30ed302f2b591.svg",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/a545c018ddf5bb81ab8613edef101dd1.webp",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -5723,6 +6078,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/a69e13640f50e3f4b3988d0dd89acf4b.pdf",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/a736fc50ee3a32ec0f24579cef0123fe.webp",
     "context": {
       "refs": [
@@ -5786,6 +6147,18 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/aa0e619475f1e163152d857df5eb58f2.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/aada60567366e2ba94c5295926868cf8.webp",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -5871,6 +6244,17 @@ Files and context:
       "refs": [
         {
           "alt": "Heritage Club| Hands On heritage_07",
+          "title": ""
+        }
+      ]
+    }
+  },
+  {
+    "path": "imgs/b0547aead7a4fd9714cbc9505a39bfbf.webp",
+    "context": {
+      "refs": [
+        {
+          "alt": "",
           "title": ""
         }
       ]
@@ -6000,6 +6384,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/b0dc1228f2c289cb6d03084943206cf0.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/b138084f00d66a165bac475cf3905b49.webp",
     "context": {
       "refs": [
@@ -6092,6 +6482,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/b5721aca08135b6e061e17fae4016faa.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/b6972339aeca3becbe407f69185f5d05.webp",
     "context": {
       "refs": [
@@ -6155,6 +6551,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/b9832ce1e3dabce86326d05cacb89f43.svg",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -6224,6 +6626,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/bc26b60905a3cde8bd01d4872187a47a.svg",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/bd6b07be4dbe5f12597b994ca87139e6.webp",
     "context": {
       "refs": [
@@ -6248,7 +6656,12 @@ Files and context:
   {
     "path": "imgs/be52f031650b3b71f62a9bcd02338439.jpeg",
     "context": {
-      "refs": []
+      "refs": [
+        {
+          "alt": "YAF| wattle and daub |Tadelakt| Mud workshop_06",
+          "title": ""
+        }
+      ]
     }
   },
   {
@@ -6263,6 +6676,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/be7b3ee99b12fa939c35a0e1c9b6c367.svg",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/bef85f6d460928976055b78733f0ceb6.webp",
     "context": {
       "refs": [
@@ -6271,6 +6690,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/bf82fed9adc6d2ada8785063c5242a95.pdf",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -6388,6 +6813,24 @@ Files and context:
     }
   },
   {
+    "path": "imgs/c1ec2177520de19f711646ff95f865e6.svg",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/c202c377e1d21047ce9f1962d7284495.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/c293930c2d6ad9759a59ec9bbe8be702.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/c2ab59f38c7671a46ce0f8e6b2114703.webp",
     "context": {
       "refs": [
@@ -6429,6 +6872,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/c404118ad1c1872805a06bd5c6c23eb2.webp",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -6506,6 +6955,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/c73d87f11ed76abd7363c12037978bb5.pdf",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -6697,6 +7152,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/cd42cd8765354e74ae0775bfc7a52e5b.pdf",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/cdff7b3bf7e6cc0f04e427a305175e70.webp",
     "context": {
       "refs": [
@@ -6855,6 +7316,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/d49ba91865a2fb94861b4b3670f546f1.pdf",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/d4ee3142a595704dcc3e7394ae880a42.webp",
     "context": {
       "refs": [
@@ -6965,6 +7432,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/d912dbf246e03eecfb82265811916e53.pdf",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/d9173840270e3e1b7b39077720c61761.webp",
     "context": {
       "refs": [
@@ -6995,6 +7468,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/daa6b7013bf963f7ff87c6f90445725a.svg",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -7058,6 +7537,17 @@ Files and context:
       "refs": [
         {
           "alt": "Soilful Skilling- A report",
+          "title": ""
+        }
+      ]
+    }
+  },
+  {
+    "path": "imgs/dca2160dc47f0daa4eb7527f1ad16f73.webp",
+    "context": {
+      "refs": [
+        {
+          "alt": "",
           "title": ""
         }
       ]
@@ -7186,6 +7676,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/e03aad8f2a94ff18af3178d759de344b.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/e0497aa5f4805f33892fc9fdce40a558.webp",
     "context": {
       "refs": [
@@ -7208,9 +7704,20 @@ Files and context:
     }
   },
   {
-    "path": "imgs/e1e8df7b649dbb3e3f231fa7dec502f4.jpeg",
+    "path": "imgs/e1412508d4f010971d3d7130f3b8abf4.pdf",
     "context": {
       "refs": []
+    }
+  },
+  {
+    "path": "imgs/e1e8df7b649dbb3e3f231fa7dec502f4.jpeg",
+    "context": {
+      "refs": [
+        {
+          "alt": "YAF| wattle and daub |Tadelakt| Mud workshop_02",
+          "title": ""
+        }
+      ]
     }
   },
   {
@@ -7299,6 +7806,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/e4a342590fb2508e11e738cf73a20abf.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/e4c636485dcd2a4a333d2ad86f89a5d4.webp",
     "context": {
       "refs": [
@@ -7356,7 +7869,12 @@ Files and context:
   {
     "path": "imgs/e62eb0ea1482e9737cfa89d949653a55.jpeg",
     "context": {
-      "refs": []
+      "refs": [
+        {
+          "alt": "",
+          "title": ""
+        }
+      ]
     }
   },
   {
@@ -7506,6 +8024,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/ec3c7afde413d7f01f9badab3252206d.webp",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -7985,6 +8509,12 @@ Files and context:
     }
   },
   {
+    "path": "imgs/fad5fa3d73291474c57b1152cceac8be.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
     "path": "imgs/fb88daa4d11517dcb30c2f884f077bc9.webp",
     "context": {
       "refs": [
@@ -8037,6 +8567,12 @@ Files and context:
           "title": ""
         }
       ]
+    }
+  },
+  {
+    "path": "imgs/fdef5699edfac1f4c9190c53513861da.pdf",
+    "context": {
+      "refs": []
     }
   },
   {
@@ -8373,7 +8909,7 @@ Files and context:
     }
   },
   {
-    "path": "st-johns-woods\u2013apartment-interiors.html",
+    "path": "st-johns-woods-apartment-interiors.html",
     "context": {
       "title": "St. John | Interiors desigen | residential interiors | koramangala",
       "first_heading": "St Johns Woods Apartment Interiors"
